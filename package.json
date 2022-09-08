@@ -1,22 +1,23 @@
 {
-  "name": "react-split-pane-modify-css",
-  "description": "React split-pane Modify CSS component",
+  "name": "better-react-split-pane",
+  "description": "Better React Split Pane component",
   "main": "index.js",
   "types": "index.d.ts",
-  "version": "2.0.3",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kics223w1/react-split-pane"
+    "url": "https://github.com/ProxymanApp/better-react-split-pane"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kics223w1/react-split-pane"
+    "url": "https://github.com/ProxymanApp/better-react-split-pane"
   },
-  "homepage": "https://github.com/kics223w1/react-split-pane",
-  "author": "viethuy",
+  "homepage": "https://github.com/ProxymanApp/better-react-split-pane",
+  "author": "Proxyman LLC",
   "keywords": [
     "split-pane",
-    "es6"
+    "es6",
+    "better-react-split-pane"
   ],
   "dependencies": {
     "glamor": "^2.20.40",

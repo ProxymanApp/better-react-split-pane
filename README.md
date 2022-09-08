@@ -1,9 +1,6 @@
-# React Split Pane
+### How to install
 
 ```
-npm i react-split-pane-modify-css
+npm i better-react-split-pane
 ```
 
-# react-split-pane-modify-css
-# react-split-pane-modify-css
-# better-react-split-pane
