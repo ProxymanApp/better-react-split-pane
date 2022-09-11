@@ -1,12 +1,12 @@
 {
-  "name": "better-react-split-pane",
+  "name": "@proxymanllc/better-react-split-pane",
   "description": "Better React Split Pane component",
   "main": "index.js",
   "types": "index.d.ts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ProxymanApp/better-react-split-pane"
+    "url": "https://github.com/ProxymanApp/better-react-split-pane.git"
   },
   "license": "MIT",
   "bugs": {
@@ -77,5 +77,8 @@
       ]
     ]
   },
-  "false": {}
+  "false": {},
+  "directories": {
+    "lib": "lib"
+  }
 }

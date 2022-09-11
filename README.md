@@ -1,6 +1,6 @@
 ### How to install
 
 ```
-npm i better-react-split-pane
+npm i @proxymanllc/better-react-split-pane
 ```
 
